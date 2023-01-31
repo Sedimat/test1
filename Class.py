@@ -31,3 +31,7 @@ school = School(150, 2000, "Smila.")
 school.get_info()
 house = Building(1995, "Smila.")
 shop = Building(1980, "Smila.")
+
+# просто коментар
+
+print("ttnhth")
